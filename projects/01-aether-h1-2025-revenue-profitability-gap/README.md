@@ -1,4 +1,4 @@
-## 🎯 Project Overview
+##  Project Overview
 
 **Aether Precision Systems — H1 2025 Revenue Growth vs. Profitability Gap Analysis**
 
@@ -11,7 +11,7 @@ The analysis combines data preparation, financial analysis, driver investigation
 **Tool:** Microsoft Excel  
 
 ---
-## 🏢 Company & Business Context
+##  Company & Business Context
 
 **Aether Precision Systems (APS)** is a mid-sized industrial technology company headquartered in the United States, with commercial operations across North America, EMEA, APAC, and Latin America.
 
@@ -28,7 +28,7 @@ The company sells through direct sales, industrial distributors, and a partner p
 APS has been expanding through customer acquisition, increased software adoption, and geographic expansion, particularly across APAC and Latin America.
 
 ---
-## 🔎 Business Problem
+##  Business Problem
 
 Aether Precision Systems is experiencing a clear **top-line growth vs. profitability gap** in H1 2025.
 
@@ -45,7 +45,7 @@ The key financial concerns are:
 The challenge for Finance is therefore not simply to measure how much revenue the company generated, but to understand **where value is being created, where it is being diluted, and what is driving the profitability gap**.
 
 ---
-## 🎯 Analytical Objectives
+##  Analytical Objectives
 
 The analysis aims to determine **why revenue growth is not translating into proportional profitability improvement** and identify the areas with the greatest financial impact.
 
@@ -71,7 +71,7 @@ The analysis is ultimately designed to answer:
 6. **Where should management prioritize action?**
 
 ---
-## 📅 Scope & Reporting Period
+##  Scope & Reporting Period
 
 The analysis covers **H1 2025**, from **1 January 2025 to 30 June 2025**.
 
@@ -99,7 +99,7 @@ Secondary comparisons include:
 This scope is designed to evaluate both the overall H1 financial performance and the underlying differences in growth, cost, and profitability across relevant business dimensions.
 
 ---
-## 🗃️ Data & Data Quality
+##  Data & Data Quality
 
 The analysis is built from **seven interconnected source datasets** covering transactions, customers, products, costs, budget, organizational mappings, and foreign-exchange rates.
 
@@ -146,7 +146,7 @@ Detailed cleaning decisions, investigations, and residual risks are documented s
 
 
 ---
-## 🧮 Analytical Approach
+##  Analytical Approach
 
 The analysis follows a structured finance analytics workflow designed to move from **data validation to diagnosis, financial impact assessment, and management action**.
 
@@ -187,7 +187,7 @@ The largest identified issues and opportunities are quantified and ranked accord
 The findings are translated into prioritized management actions covering pricing and discount governance, product mix, cost management, regional focus, and relevant data or process improvements.
 
 ---
-## 📈 Analysis & Results
+##  Analysis & Results
 
 ### Revenue & Pricing
 
@@ -227,7 +227,7 @@ The main themes identified were:
 - Data-quality issues can materially affect dimension-level analysis and therefore require continued control and documentation.
 
 ---
-## 💵 Financial Impact & Prioritization
+##  Financial Impact & Prioritization
 
 The identified financial impacts are prioritized from the **largest quantified amount to the smallest**, while distinguishing between confirmed cost impact, revenue exposure, and illustrative improvement opportunities.
 
@@ -248,7 +248,7 @@ The **~$44K Field Services opportunity** reflects an illustrative contribution-m
 Accordingly, the figures represent **different forms of financial impact and should not be summed into a single loss or opportunity figure**.
 
 ---
-## 🎯 Management Recommendations
+##  Management Recommendations
 
 Based on the financial impact assessment and driver investigation, the following actions are prioritized by **financial relevance, evidence strength, and practical management value**.
 
@@ -291,7 +291,7 @@ The immediate focus should be on **discount governance and product-level cost co
 At the same time, management should protect high-margin Software & Analytics growth, improve the economics of Field Services, and strengthen data controls to support more reliable future decision-making.
 
 ---
-## ⚠️ Limitations & Caveats
+##  Limitations & Caveats
 
 The findings in this analysis should be interpreted within the following limitations and assumptions.
 
@@ -371,7 +371,7 @@ The [`documentation/`](./documentation/) folder contains the supporting technica
 The detailed documentation provides additional context without duplicating the executive-level narrative presented in this README.
 
 ---
-## 🛠️ Skills Demonstrated
+##  Skills Demonstrated
 
 This project demonstrates a combination of **Excel technical execution, finance and FP&A analysis, and analytical judgment**.
 
@@ -406,7 +406,7 @@ This project demonstrates a combination of **Excel technical execution, finance 
 - Translating analysis into management-relevant conclusions
 - Clear written communication for finance leadership
 
-## ✅ Conclusion
+##  Conclusion
 
 The H1 2025 analysis shows that **revenue growth alone was not sufficient to deliver proportional profitability improvement at Aether Precision Systems**.
 
