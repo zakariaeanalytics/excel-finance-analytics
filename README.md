@@ -1,4 +1,4 @@
-# 📊 Excel Finance Analytics
+#  Excel Finance Analytics
 
 This repository documents my development in Excel for financial and business data analysis.
 
@@ -9,7 +9,7 @@ It brings together practical analytical work focused on transforming data into m
 
 
 
-## 🎯 Purpose
+##  Purpose
 
 This repository is dedicated to developing and demonstrating practical Excel
 skills for finance and business data analysis.
@@ -20,7 +20,7 @@ performance evaluation, and decision support.
 
 
 
-## 🛠️ Excel Skills & Capabilities
+##  Excel Skills & Capabilities
 
 ### Module 1 — Excel Fundamentals for Data Analysis
 
@@ -75,7 +75,7 @@ excel-finance-analytics/
 Each project is organized independently, with its own analysis, supporting files, and documentation.
 
 ---
-## 📚 Learning & Development
+##  Learning & Development
 
 This repository evolves alongside my development in Excel for finance and business data analysis.
 
